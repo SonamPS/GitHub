@@ -1,10 +1,13 @@
 package Sample1;
 
-public class example2 {
+public class example2
+{
 
-	public static void main(String[] args) {
+	public static void main(String[] args)
+	{
 		// TODO Auto-generated method stub
 		System.out.println("gud eve");
+		System.out.println("good evening");
 	}
 
 }
